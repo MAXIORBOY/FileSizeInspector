@@ -110,7 +110,6 @@ def fix_path(path):
         return ''.join(path)
 
 
-# centralizuje położenie okna
 def window_position_adjuster(window, width_adjuster=0.7, height_adjuster=0.7):
     window.update()
     window.geometry('%dx%d+%d+%d' % (window.winfo_width(), window.winfo_height(), width_adjuster * ((window.winfo_screenwidth() - window.winfo_width()) / 2), height_adjuster * ((window.winfo_screenheight() - window.winfo_height()) / 2)))
@@ -118,8 +117,9 @@ def window_position_adjuster(window, width_adjuster=0.7, height_adjuster=0.7):
 
 def window_on_top_update(window):
     window.attributes('-topmost', True)
-    window.update()
     window.attributes('-topmost', False)
+    window.focus_force()
+    window.update()
 
 
 def window_alpha(window, alpha):
