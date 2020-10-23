@@ -117,6 +117,7 @@ def window_position_adjuster(window, width_adjuster=0.7, height_adjuster=0.7):
 
 def window_on_top_update(window):
     window.attributes('-topmost', True)
+    window.update()
     window.attributes('-topmost', False)
     window.focus_force()
     window.update()
