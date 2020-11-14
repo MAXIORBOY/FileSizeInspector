@@ -4,3 +4,6 @@ After choosing a starting location, the program will calculate and memorize the 
 Caution: Due to the program's behaviour, some anti-virus softwares may classify it as malicious software.
 
 An executable (.exe) version is available in the Release folder
+
+
+![FSI screenshot](https://user-images.githubusercontent.com/71539614/99140387-e6181600-2641-11eb-935b-e13804a9527c.png)
