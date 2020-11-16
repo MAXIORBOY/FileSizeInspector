@@ -7,5 +7,9 @@ Due to the program's behaviour, some anti-virus softwares may classify it as mal
 * Launch the ```Main.py``` script.
 * An executable (.exe) version is available in the ```Release``` folder.
 
+## Technology:  
+* ```Python``` 3.8  
+* ```tkScrolledFrame``` 1.04  
+
 ## Screenshot:  
 ![FSI screenshot](https://user-images.githubusercontent.com/71539614/99140387-e6181600-2641-11eb-935b-e13804a9527c.png)
