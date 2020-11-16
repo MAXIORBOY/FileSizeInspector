@@ -4,7 +4,7 @@
 Due to the program's behaviour, some anti-virus softwares may classify it as malicious software.
 
 # Launch:  
-* Launch the ```main.py``` script.
+* Launch the ```Main.py``` script.
 * An executable (.exe) version is available in the ```Release``` folder.
 
 ## Screenshot:  
