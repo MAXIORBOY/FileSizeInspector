@@ -1,7 +1,7 @@
-# File Size Inspector is a file explorer which displays a size of both files and folders, which allows to quickly locate the biggest objects on your disc. After choosing a starting location, the program will calculate and memorize the size of all elements on that disc. It may take from few seconds to about one minute.
+# File Size Inspector is a file explorer which displays a size of both files and folders, which allows to quickly locate the biggest objects on your disc. After choosing a starting location, the program will calculate and memorize the size of all elements on that disc. It may take from few seconds to about few minutes.
 
 ## Caution:  
-Due to the program's behaviour, some anti-virus softwares may classify it as malicious software.
+Due to the program's behaviour, some anti-virus softwares may classify it as a malicious software.
 
 ## Launch:  
 * Launch the ```Main.py``` script.
